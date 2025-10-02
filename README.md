@@ -81,6 +81,8 @@ Session Revenue
 <img width="1275" height="720" alt="image" src="https://github.com/user-attachments/assets/410439b9-bc7b-4d44-9838-8f69f7be3ab2" />
 
 ⚡ PROJECT FLOW & STRUCTURE
+ 
+ 
  📁Website_Analytics_and_Conversion_Rate_Optimization/
   │ 
   ├── 📁 Data/                         # Raw datasets
