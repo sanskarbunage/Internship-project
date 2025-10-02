@@ -105,6 +105,4 @@ Session Revenue
   │    └── PROJECT C DASHBOARD.pbix        # Interactive visualization & KPIs
   │
   └── README.md                         # Project documentation
-✔️ Visualizations :
 
-Funnel Chart (Vertical Bar Chart): Displayed drop-offs at each stage of the purchase journey
